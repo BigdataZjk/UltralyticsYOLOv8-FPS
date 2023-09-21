@@ -1,0 +1,10 @@
+# Ultralytics requirements
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+ultralytics
+numpy
+pyautogui
+pynput
+pywin32
+opencv-python
