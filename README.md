@@ -3,7 +3,7 @@
 ## 免责声明
 - 该项目无意用于游戏，也不应该使用。使用风险自负。
 - 该项目将不会定期维护，因为它目前已经达到了目标。一旦有更好的模型/压缩方法/量化方法可用，可能会提供更新。
-- 该项目是基于[Chalkeys/Yolov8-Apex-Aim-assist-with-IFF](https://github.com/Chalkeys/Yolov8-Apex-Aim-assist-with-IFF)项目的翻译和改进，原项目[Franklin-Zhang0/Yolo-v8-Apex-Aim-assist](https://github.com/Franklin-Zhang0/Yolo-v8-Apex-Aim-assist)。向[Franklin-Zhang0](https://github.com/Franklin-Zhang0)和[Chalkeys](https://github.com/Chalkeys)致敬`:thumbsup:`。
+- 该项目是基于[Chalkeys/Yolov8-Apex-Aim-assist-with-IFF](https://github.com/Chalkeys/Yolov8-Apex-Aim-assist-with-IFF)项目的翻译和改进，原项目[Franklin-Zhang0/Yolo-v8-Apex-Aim-assist](https://github.com/Franklin-Zhang0/Yolo-v8-Apex-Aim-assist)。向[Franklin-Zhang0](https://github.com/Franklin-Zhang0)和[Chalkeys](https://github.com/Chalkeys)致敬:thumbsup:。
 
 ## 性能水平
 <details>
