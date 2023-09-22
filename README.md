@@ -231,9 +231,10 @@
 
 ### 2. `.pt`导出为`ONNX`的`.onnx`权重
 
-  <br>如果你只需要`fp16`精度，那么跳过此步
-  <br>[官方导出文档](https://docs.ultralytics.com/usage/python/#export)
-  <br>[官方导出参数](https://docs.ultralytics.com/usage/cfg/#export)
+  如果你只需要`fp16`精度，那么跳过此步
+
+  [官方导出文档](https://docs.ultralytics.com/usage/python/#export)
+  [官方导出参数](https://docs.ultralytics.com/usage/cfg/#export)
 
   - CLI官方函数导出`yolo export`
 
